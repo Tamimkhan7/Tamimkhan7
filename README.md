@@ -48,10 +48,6 @@ Here are some of my notable projects:
    - Built with React.js, responsive and mobile-friendly  
    - Features menu listing, cart-based ordering, and user login  
 
-3. **Competitive Programming Practice Tools**  
-   - Developed tools to track problem-solving progress across multiple platforms  
-   - Includes progress charts and contest analysis  
-
 *(More projects available on [GitHub](https://github.com/Tamimkhan7))*
 
 ---
@@ -63,14 +59,6 @@ Here are some of my notable projects:
 - Continue mastering **advanced algorithms**, **data structures**, and **competitive programming techniques**  
 - Mentor aspiring programmers and lead **technical workshops**  
 
----
-
-## 🌱 Skills
-
-**Languages:** C, C++, Java, JavaScript  
-**Web Technologies:** HTML, CSS, Tailwind CSS, React.js, .NET  
-**Databases:** SQL, MySQL, PostgreSQL  
-**Tools & Others:** Git, GitHub, Competitive Programming  
 
 ---
 
