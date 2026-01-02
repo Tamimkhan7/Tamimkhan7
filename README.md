@@ -2,7 +2,7 @@
 
 I'm a **Software Engineer** from Dhaka, Bangladesh, passionate about **problem-solving, innovation, and continuous learning**.  
 
-I have a strong foundation in **C, C++, and Java (OOP)** and expertise in modern web technologies:  
+I have a strong foundation in **C and C++(OOP)** and expertise in modern web technologies:  
 **HTML, CSS, Tailwind CSS, JavaScript, React.js, and .NET**.  
 I am skilled in **database management** with **SQL, MySQL, PostgreSQL**, and proficient in **Git** for version control.  
 
