@@ -48,7 +48,7 @@ Here are some of my notable projects:
    - Built with React.js, responsive and mobile-friendly  
    - Features menu listing, cart-based ordering, and user login  
 
-*(More projects available on [GitHub](https://github.com/Tamimkhan7))*
+*(More projects available on [GitHub]([https://github.com/Tamimkhan7](https://github.com/Tamimkhan7?tab=repositories)))*
 
 ---
 
